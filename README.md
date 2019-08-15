@@ -1,1 +1,2 @@
-# The above ML models are very basic hence it can easily be implemented with different datasets.
+# The above ML models are the most common ones such as:
+Linear Regression, SVM, Logistic Regression, Decision Tree, K-Means
